@@ -1,0 +1,14 @@
+{
+  "id": "123",
+  "metadata": "blah",
+  "data": {
+    "users": {
+      "count": 4,
+      "list": [
+        "bob",
+        "john",
+        "doe"
+      ]
+    }
+  }
+}
